@@ -1,0 +1,12 @@
+[
+  "constructor(address)",
+  "function faucetAmount() view returns (uint256)",
+  "function faucetCooldown() view returns (uint256)",
+  "function getAvailabilityTime() view returns (uint256)",
+  "function getCooldown() view returns (uint256)",
+  "function getCurrentTimestamp() view returns (uint256)",
+  "function getLastRequestTime() view returns (uint256)",
+  "function lastRequestTime(address) view returns (uint256)",
+  "function requestToken(address)",
+  "function tokenAddress() view returns (address)"
+]

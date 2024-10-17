@@ -1,0 +1,18 @@
+[
+  "constructor(address,address,uint256,uint256,uint256)",
+  "event BurnStabil(address,uint256)",
+  "event DepositCollateral(address,uint256)",
+  "event MintStabil(address,uint256)",
+  "event SetCollateralPrice(uint256)",
+  "event WithdrawCollateral(address,uint256)",
+  "function burnStabil(address,uint256)",
+  "function collateralAmounts(address) view returns (uint256)",
+  "function collateralPrice() view returns (uint256)",
+  "function collateralRatio() view returns (uint256)",
+  "function debtAmounts(address) view returns (uint256)",
+  "function depositCollateral(address,uint256)",
+  "function liquidationRatio() view returns (uint256)",
+  "function mintStabil(address,uint256)",
+  "function setCollateralPrice(uint256)",
+  "function withdrawCollateral(address,uint256)"
+]
